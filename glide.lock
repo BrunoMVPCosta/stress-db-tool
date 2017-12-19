@@ -1,0 +1,15 @@
+hash: f0f19d86b164097d52b3e4950d593976bad8fda77e432639663cb17dde88e45e
+updated: 2017-12-07T15:50:29.001150579Z
+imports:
+- name: github.com/dmgk/faker
+  version: 63f4c0652a245567b56af4df496c39e517269004
+  subpackages:
+  - locales
+- name: gopkg.in/mgo.v2
+  version: 3f83fa5005286a7fe593b055f0d7771a7dce4655
+  subpackages:
+  - bson
+  - internal/json
+  - internal/sasl
+  - internal/scram
+testImports: []

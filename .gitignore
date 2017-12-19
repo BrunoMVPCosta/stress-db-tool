@@ -1,0 +1,19 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Configuration file
+conf.json
+
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+debug
+main
+
+# Test binary, build with `go test -c`
+*.test

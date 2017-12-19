@@ -1,0 +1,5 @@
+package: stress-mongo-tool
+import:
+- package: gopkg.in/mgo.v2
+- package: github.com/dmgk/faker
+
